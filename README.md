@@ -19,7 +19,7 @@ o	Yearly change from opening price at the beginning of a given year to the closi
 o	The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 o	The total stock volume of the stock.
 •	You should also have conditional formatting that will highlight positive change in green and negative change in red.
-•	The result should look as follows.
+•	The result should look as the given sample screen.
 
 CHALLENGES
 1.	Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". 
